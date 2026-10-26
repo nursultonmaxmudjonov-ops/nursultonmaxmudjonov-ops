@@ -23,7 +23,7 @@
 - 🏆 **Jamoam:** **MAXMUDJONOVVV TEAM** asoschisi va bosh dasturchisi.
 - 🏫 **Faoliyatim:** Maktabda IT va Sun'iy Intellekt yo'nalishi bo'yicha yetakchi (Leader).
 - 🎮 **Qiziqishlarim:** Web ilovalar, Telegram Mini-Apps, Real-Time chat/video tizimlar (Convex, WebRTC) hamda Blender orqali 3D modellashtirish va animatsiyalar.
-- 💻 **Hardware & OS:** Acer Nitro V 16 AI (AMD Ryzen 5, RTX 5050, 16GB DDR5) | Windows 11 + VS Code + Git Bash.
+
 
 ---
 
