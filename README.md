@@ -1,36 +1,27 @@
-<!-- Modern and Professional Banner -->
-<div align="center">
-  <img src="https://i.imgur.com/uRj0p2r.png" alt="Nursulton's Profile Banner: CODE & CREATIVITY" width="100%" />
-</div>
-
-<br />
-
-<!-- Header and Introduction -->
 <div align="center">
   <h1 align="center">👋 Salom, men Nursulton (MaTr1x)!</h1>
   <p align="center">
     <b>Full-Stack Developer | Founder of MAXMUDJONOVVV TEAM | IT & AI School Leader</b>
   </p>
+
+  <!-- Visitor Counter -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e7586&style=flat" alt="Profile Views" />
+  </p>
 </div>
 
 ---
-
-<!-- About Me with Custom Visual -->
-<div align="center">
-  <img src="https://i.imgur.com/i9E8xP5.png" alt="Nursulton's Developer Avatar" width="100" />
-</div>
 
 ### 🚀 Men haqimda (About Me)
 
-*   **👨‍💻 Dasturlash:** Python backend’dan tortib modern Next.js va Full-Stack web ilovalarigacha yarataman.
-*   **🏆 Jamoam:** **MAXMUDJONOVVV TEAM** asoschisi va rahbari.
-*   **🏫 Faoliyatim:** Maktabda IT va Sun'iy Intelekt yo'nalishi bo'yicha yetakchi (Leader).
-*   **⚡ Yo'nalishlarim:** Web ilovalar, Telegram Mini-Apps, Real-Time chat/video tizimlar (Convex, WebRTC) hamda Blender 3D animatsiyalar.
-*   **💻 Ish stansiyam:** Acer Nitro V 16 AI (RTX 5050) | VS Code & Git Bash
+- 👨‍💻 **Dasturlash:** Python backend’dan tortib modern Next.js va Full-Stack web ilovalarigacha yarataman.
+- 🏆 **Jamoam:** **MAXMUDJONOVVV TEAM** asoschisi va rahbari.
+- 🏫 **Faoliyatim:** Maktabda IT va Sun'iy Intelekt yo'nalishi bo'yicha yetakchi (Leader).
+- ⚡ **Yo'nalishlarim:** Web ilovalar, Telegram Mini-Apps, Real-Time chat/video tizimlar (Convex, WebRTC) hamda Blender 3D animatsiyalar.
+- 💻 **Ish stansiyam:** Acer Nitro V 16 AI (RTX 5050) | VS Code & Git Bash
 
 ---
 
-<!-- Visual Tech Stack -->
 ### 🛠 Texnologiyalar & Asboblar (Tech Stack)
 
 #### 🐍 Backend & Languages
@@ -54,7 +45,6 @@
 
 ---
 
-<!-- Enhanced Stats -->
 ### 📊 Mening GitHub Statistikam
 
 <div align="center">
@@ -70,12 +60,5 @@
 
 ---
 
-<!-- Visually Enhanced Quote -->
-<div align="center">
-  <img src="https://i.imgur.com/rN9iN6z.png" alt="Code to Creation Pipeline Icon" width="100" />
-</div>
-
 ### 💡 Shiorim
 > *"G'oyalarni noldan boshlab to'liq ishlaydigan mukammal tizimga aylantirish — MAXMUDJONOVVV TEAM bilan birga!"*
-
----
